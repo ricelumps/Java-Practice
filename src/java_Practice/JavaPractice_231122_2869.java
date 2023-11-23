@@ -17,6 +17,7 @@ public class JavaPractice_231122_2869 {
 		int B = Integer.parseInt(st.nextToken());
 		int V = Integer.parseInt(st.nextToken());
 		
+		// 날짜 = 
 		int day = ( V - B ) / ( A - B ) ; 
 		if ( (V - B) % ( A - B ) != 0 ) day++;
 		
