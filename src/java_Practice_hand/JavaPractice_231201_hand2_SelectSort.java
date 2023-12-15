@@ -1,4 +1,4 @@
-package java_Practice;
+package java_Practice_hand;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
